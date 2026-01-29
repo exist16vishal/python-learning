@@ -4,12 +4,19 @@ Each folder represents a mini-project or concept-based practice I’ve built whi
 📘 Contents
 Topic	Description
 *Basic Programs	Print statements, loops, conditions, and logic-building
+
 *Data Handling	Lists, Tuples, Dictionaries, and File Handling
+
 *OOPs in Python	Classes, Objects, and Inheritance examples
+
 *Student Management System (Tkinter + Pandas)	GUI app to add/view/analyze student data
+
 *Calculator Project	Simple CLI calculator using conditionals and arithmetic
+
 *File Operations	Reading/Writing .txt and .csv files
+
 *Numpy Practice	Array operations and mathematical functions
+
 *Tech Stack
 
 Python 3.x
