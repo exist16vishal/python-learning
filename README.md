@@ -29,6 +29,6 @@ The final milestone includes GUI-based applications and data-driven tools.
 
 👤 Author
 
-Vishal Dubey
+Vishal Dubey|
 Electronics & Communication Graduate | Python & Data Enthusiast
 📍India
