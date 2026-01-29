@@ -1,8 +1,8 @@
 This repository documents my complete journey of learning Python — from basics to GUI projects.
 Each folder represents a mini-project or concept-based practice I’ve built while mastering Python programming.
 
-📘 Contents
-Topic	Description
+📘 Contents:
+Topic	Description:
 *Basic Programs	Print statements, loops, conditions, and logic-building
 
 *Data Handling	Lists, Tuples, Dictionaries, and File Handling
@@ -17,17 +17,13 @@ Topic	Description
 
 *Numpy Practice	Array operations and mathematical functions
 
-*Tech Stack
-
+#Tech Stack:
 Python 3.x
-
 Tkinter (GUI)
-
 Pandas, Numpy
-
 VS Code
 
-#Goal
+#Goal:
 
 To strengthen my foundation in Python by building real, working mini-projects step by step.
 The final milestone includes GUI-based applications and data-driven tools.
