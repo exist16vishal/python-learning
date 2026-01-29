@@ -18,13 +18,12 @@ Topic	Description:
 *Numpy Practice	Array operations and mathematical functions
 
 #Tech Stack:
-Python 3.x
-Tkinter (GUI)
-Pandas, Numpy
+Python 3.x,
+Tkinter (GUI),
+Pandas, Numpy,
 VS Code
 
 #Goal:
-
 To strengthen my foundation in Python by building real, working mini-projects step by step.
 The final milestone includes GUI-based applications and data-driven tools.
 
